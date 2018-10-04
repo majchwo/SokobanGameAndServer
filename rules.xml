@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<help>
+  <title>Zasady gry:</title>
+  <rules id="1">Celem gracza jest przesunąć wszystkie paczki na planszy do pól docelowych</rules>
+  <rules id="2">Gracz rozpoczynając grę ma trzy życia, czyli gracz może trzykrotnie powtórzyć dany poziom</rules>
+  <rules id="3">Gdy gracz zdecyduje powtórzyć poziom traci jedno życie</rules>
+  <rules id="4">Zaliczenie poziomu następuje po przesunięciu wszystkich paczek na planszy do pól docelowych</rules>
+  <rules id="5">Gra zostaje zakończona gdy gracz ukończy wszytkie poziomy lub straci wszystkie życia</rules>
+  <rules id="6">Gracz może tylko popychać paczki</rules>
+  <rules id="7">Gracz za ukończenie poziomu zdobywa punkty</rules>
+  <rules id="8">Im mniej ruchów użyje gracz tym więcej zdobędzie punktów</rules>
+  <rules id="9">Ukończenie poziomu daje pewną bazową ilość punktów niezależną od ilości ruchów</rules>
+  <rules id="10">Punkty nie zależą od czasu rozgrywki</rules>
+</help>

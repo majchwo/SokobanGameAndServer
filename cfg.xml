@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfg>
+  <frameWidth>400</frameWidth>
+  <frameHeight>400</frameHeight>
+  <numberOfBricksX>15</numberOfBricksX>
+  <numberOfBricksY>15</numberOfBricksY>
+  <infoFrameWidth>200</infoFrameWidth>
+  <infoFrameHeight>200</infoFrameHeight>
+  <MaxLevel>3</MaxLevel>
+</cfg>
